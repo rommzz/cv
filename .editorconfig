@@ -1,0 +1,22 @@
+root = true
+
+# Default rules
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 2
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Markdown files (jangan hapus trailing whitespace untuk tabel)
+[*.md]
+trim_trailing_whitespace = false
+
+# YAML (Nuxt config, workflows)
+[*.yml]
+indent_size = 2
+
+# JSON
+[*.json]
+indent_size = 2
