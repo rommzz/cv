@@ -270,7 +270,6 @@
 
   .section {
     margin-bottom: 20px;
-    page-break-inside: avoid;
   }
 
   .section-title {
@@ -429,16 +428,24 @@
       min-height: auto;
     }
 
-    .section {
-      break-inside: avoid;
+    .section-title {
+      break-after: avoid;
+      page-break-after: avoid;
     }
 
     .experience-item {
       break-inside: avoid;
+      page-break-inside: avoid;
     }
 
     .certification-item {
       break-inside: avoid;
+      page-break-inside: avoid;
+    }
+
+    .skill-item, .education-item {
+      break-inside: avoid;
+      page-break-inside: avoid;
     }
 
     .ats-optimized {

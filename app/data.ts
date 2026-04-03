@@ -66,10 +66,11 @@ const cv: Data = {
       startDate: '2024-10',
       location: 'Hybird',
       description: [
-        'Melakukan maintenance dan bug fixing pada aplikasi yang sudah di-deploy.',
-        'Bertanggung jawab atas troubleshooting sistem dari laporan bug Customer Service.',
-        'Memastikan stabilitas server dan layanan aplikasi berjalan semestinya.',
-        'Memberikan rekomendasi teknis dan sistem kepada IT Manager untuk perbaikan.',
+        'Feb 2025–Sekarang (PIC Frontend – Omnichannel): Memimpin pengembangan fitur Omnichannel (seperti Qontak) pada project CRM existing. Project dikerjakan tim Software Engineer (2 orang) + pinjaman resource Frontend & Backend dari divisi Production. Bertanggung jawab membagi tugas, mengoordinasi tim lintas divisi, serta memastikan delivery frontend full onsite (Flutter) sesuai timeline. Menerapkan metodologi Agile secara disiplin, termasuk dalam menangani edge case kompleks yang muncul di tengah development.',
+        'Okt 2024–Jan 2025: Melakukan maintenance dan bug fixing pada aplikasi yang sudah di-deploy.',
+        'Okt 2024–Jan 2025: Bertanggung jawab atas troubleshooting sistem dari laporan bug Customer Service.',
+        'Okt 2024–Jan 2025: Memastikan stabilitas server dan layanan aplikasi berjalan semestinya.',
+        'Okt 2024–Jan 2025: Memberikan rekomendasi teknis dan sistem kepada IT Manager untuk perbaikan.',
       ],
     },
     {
